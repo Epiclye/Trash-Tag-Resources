@@ -4,4 +4,6 @@ Here you will be able to find assets (according to Creative Commons Zero v1.0 Un
 
 These assets were created by the Trash Tag Team and and approved for redistribution by the Trash Tag Team.
 
-You may do whatever you may please with any of these assets. However, proper crediting is necessary to use. (Asset created by Trash Tag VR)
+You may do whatever you may please with any of these assets. **However, proper crediting is necessary for use.**
+
+Copyright (c) 2025 Epiclye
